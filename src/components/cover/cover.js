@@ -4,10 +4,9 @@ import "./cover.css";
 class Cover extends Component {
     render() {
         return (
-            <div class="covr">
-                
+            <div class="cover">
                     <div className="container-fluid">
-                        <h1 style={{marginLeft: '15px'}}>Lorem ipsum dolor sit amet consectetur adipiscing</h1>
+                        <h1 style={{fontFamily: 'Kumbh Sans', fontWeight: 'bold', marginLeft: '15px', paddingTop: '30px', paddingBottom: '25px', marginBottom: '0'}}>We build the future of open-source</h1>
                     </div>
                 </div>
             
